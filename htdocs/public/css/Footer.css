@@ -1,0 +1,28 @@
+.footer{
+	font-family: "Times New Roman";
+	background-color:rgb(108,22,1);
+	position: sticky;
+	font-size: 12px;
+	height: 100px;
+	z-index: 100;
+	overflow:hidden;
+	width: 100%;
+	bottom: 0;
+}
+.footerTopBar{
+	background-color: rgb(108,22,1);
+	height: 0.2vh;
+}
+.socialButtons, .copyright{
+	margin: 10px; 
+	text-align: center;
+}
+.footerSocialButtons{
+	width: 44px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.copyright{
+	color: rgb(255, 149, 0);
+	font-size: 14px;
+}
